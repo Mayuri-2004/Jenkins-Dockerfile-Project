@@ -74,14 +74,17 @@ This project demonstrates how to use **Jenkins Freestyle Job** to:
 - Build Step->Execute shell
 
 ![](/Images/Jemkis%20Item%201.png)
+
 ![](/Images/2.png)
+
 ![](/Images/3.png)
+
 ![](/Images/4.png)
 
 ---
 
 **Step8: Add webhook in your github**
-- Fill yopur current jenkins IP Address
+- Fill your current jenkins IP Address
 
 ![](/Images/Add%20webhook.png)
 
